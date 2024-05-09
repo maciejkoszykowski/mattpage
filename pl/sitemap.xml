@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/pl/projects/project1/</loc>
+    <loc>https://www.projekt.mk/pl/projects/project1/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/pl/projects/project3/</loc>
+    <loc>https://www.projekt.mk/pl/projects/project3/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/pl/</loc>
+    <loc>https://www.projekt.mk/pl/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/"
+                href="https://www.projekt.mk/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/"
+                href="https://www.projekt.mk/pl/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/project_tags/markdown/</loc>
+    <loc>https://www.projekt.mk/pl/project_tags/markdown/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/pl/project_tags/</loc>
+    <loc>https://www.projekt.mk/pl/project_tags/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/project_tags/"
+                href="https://www.projekt.mk/en/project_tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/project_tags/"
+                href="https://www.projekt.mk/pl/project_tags/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/projects/</loc>
+    <loc>https://www.projekt.mk/pl/projects/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/pl/project_tags/webapp/</loc>
+    <loc>https://www.projekt.mk/pl/project_tags/webapp/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/pl/library/</loc>
+    <loc>https://www.projekt.mk/pl/library/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/library/"
+                href="https://www.projekt.mk/en/library/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/library/"
+                href="https://www.projekt.mk/pl/library/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/garden/</loc>
+    <loc>https://www.projekt.mk/pl/garden/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/garden/"
+                href="https://www.projekt.mk/en/garden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/garden/"
+                href="https://www.projekt.mk/pl/garden/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/about/</loc>
+    <loc>https://www.projekt.mk/pl/about/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/about/"
+                href="https://www.projekt.mk/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/about/"
+                href="https://www.projekt.mk/pl/about/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/garden_tags/</loc>
+    <loc>https://www.projekt.mk/pl/garden_tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/garden_tags/"
+                href="https://www.projekt.mk/en/garden_tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/garden_tags/"
+                href="https://www.projekt.mk/pl/garden_tags/"
                 />
   </url><url>
-    <loc>https://www.example.com/pl/library_tags/</loc>
+    <loc>https://www.projekt.mk/pl/library_tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/en/library_tags/"
+                href="https://www.projekt.mk/en/library_tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.example.com/pl/library_tags/"
+                href="https://www.projekt.mk/pl/library_tags/"
                 />
   </url>
 </urlset>
